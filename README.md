@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **DiegoBruno30/DiegoBruno30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Science Computing.
 - 👯 I’m looking to a internship in Data bases.
 - 📫 How to reach me: diego_brm@windowslive.com
--->
+
